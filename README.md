@@ -1,6 +1,6 @@
 # ---Welcome to Emrah Abdurahman's GitHub Profile :books: :computer: :wink:---
 
-#### A Short Introduction:
+#### A Short(ish) Introduction:
 ``` js
   console.log("I love Web Design and Web Development!");
 ```
@@ -16,7 +16,7 @@ projects.
   - JavaScript
 + To-Learn List (as well as topics to gain more wisdom on):
   - Bootstrap
-  - Embedded JavaScript
+  - Embedded JavaScript (EJS)
   - Express.js
   - Git
   - JSON
