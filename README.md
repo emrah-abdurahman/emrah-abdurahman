@@ -11,7 +11,6 @@ creativity with logical problem solving. I am using GitHub to document my journe
 and possibly other miscellaneous subjects. I am highly open-minded and would love to work with others on collaboration 
 projects.
 
-
 + 👨‍🔬 I’m currently working on:
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript
 + 📚 I’m currently learning:
@@ -25,15 +24,3 @@ projects.
   - MongoDB
   - Node.js
   - React.js
-<!--
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱
-- 👋
-- 🔭
--->
