@@ -2,7 +2,7 @@
 
 #### A Short Introduction:
 ``` js
-  console.log("I love Web Design and Development!");
+  console.log("I love Web Design and Web Development!");
 ```
 Hey, I'm Emrah! My passion for web technologies cannot be hidden. I am constantly gaining more knowledge, skills, 
 and experience to level up in this field. Web design and web development allow me to blend an infinite amount of 
