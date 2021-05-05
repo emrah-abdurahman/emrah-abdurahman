@@ -14,7 +14,7 @@ projects.
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
 + 📚 **I’m currently learning:**
   - JavaScript
-+ To-Learn List (as well as topics to gain more wisdom on):
++ :bulb: **To-Learn List (as well as topics to gain more wisdom on):**
   - Bootstrap
   - Embedded JavaScript (EJS)
   - Express.js
