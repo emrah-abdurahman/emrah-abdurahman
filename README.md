@@ -11,7 +11,7 @@ and possibly other miscellaneous subjects. I am highly open-minded and would lov
 projects.
 
 + 👨‍🔬 I’m currently working on:
-  - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript
+  - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
 + 📚 I’m currently learning:
   - JavaScript
 + To-Learn List (as well as topics to gain more wisdom on):
