@@ -1,14 +1,21 @@
-### Welcome to Emrah Abdurahman's GitHub Profile :books: :computer: ![The Dojocat](https://octodex.github.com/images/dojocat.png)
+### Welcome to Emrah Abdurahman's GitHub Profile :books: :computer:
 
 ``` js
   console.log("I love web development!");
 
-- 👨‍🔬 I’m currently working on:
++ 👨‍🔬 I’m currently working on:
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript
-- 📚 I’m currently learning:
++ 📚 I’m currently learning:
   - JavaScript
-- To-Learn List (as well as topics to gain more wisdom on):
-  - Bootstrap - Embedded JavaScript - Git - 
++ To-Learn List (as well as topics to gain more wisdom on):
+  - Bootstrap
+  - Embedded JavaScript
+  - Express.js
+  - Git
+  - JSON
+  - MongoDB
+  - Node.js
+  - React.js
 <!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
