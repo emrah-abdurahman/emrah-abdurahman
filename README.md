@@ -10,9 +10,9 @@ creativity with logical problem solving. I am using GitHub to document my journe
 and possibly other miscellaneous subjects. I am highly open-minded and would love to work with others on collaboration 
 projects.
 
-+ 👨‍🔬 I’m currently working on:
++ 👨‍🔬 **I’m currently working on:**
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
-+ 📚 I’m currently learning:
++ 📚 **I’m currently learning:**
   - JavaScript
 + To-Learn List (as well as topics to gain more wisdom on):
   - Bootstrap
