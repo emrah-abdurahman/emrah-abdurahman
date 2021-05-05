@@ -12,7 +12,7 @@ projects.
 
 + 👨‍🔬 **I’m currently working on:**
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
-+ 📚 **I’m currently learning:**
++ 📚 **I’m currently learning and practicing:**
   - JavaScript
 + :bulb: **To-Learn List (as well as topics to gain more wisdom on):**
   - Bootstrap
