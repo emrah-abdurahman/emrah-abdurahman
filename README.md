@@ -6,7 +6,7 @@
   console.log("I love Web Design and Development!");
 
 Hey, I'm Emrah! My passion for web technologies cannot be hidden. I am constantly gaining more knowledge, skills, 
-and experiencing to level up in this field. Web design and web development allow me to blend an infinite amount of 
+and experience to level up in this field. Web design and web development allow me to blend an infinite amount of 
 creativity with logical problem solving. I am using GitHub to document my journey learning web design, development, 
 and possibly other miscellaneous subjects. I am highly open-minded and would love to work with others on collaboration 
 projects.
