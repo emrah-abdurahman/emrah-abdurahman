@@ -1,7 +1,6 @@
 # ---Welcome to Emrah Abdurahman's GitHub Profile :books: :computer: :wink:---
 
 #### A Short Introduction:
-
 ``` js
   console.log("I love Web Design and Development!");
 
