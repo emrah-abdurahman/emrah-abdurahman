@@ -20,6 +20,7 @@ projects.
   - Bootstrap
   - Embedded JavaScript (EJS)
   - Express.js
+  - jQuery
   - JSON
   - MongoDB
   - Node.js
