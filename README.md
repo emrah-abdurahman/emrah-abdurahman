@@ -13,9 +13,11 @@ projects.
 + 👨‍🔬 **I’m currently working on:**
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
 + 📚 **I’m currently learning and practicing:**
+  - AJAX
+  - Book - JavaScript & JQuery: Interactive Front-End Web Development [Jon Duckett]
+  - Course - JavaScript Algorithms and Data Structures - I am completing this course on freeCodeCamp
   - JavaScript
-  - Practicing AJAX with JavaScript (See my practice code in the "AJAX" folder within the repository called "Practice"
-  - Responsive Web Design - I am currently completing the freeCodeCamp's certification for this course
+  - jQuery
 + :bulb: **To-Learn List (as well as topics to gain more wisdom on):**
   - AngularJS
   - Bootstrap
