@@ -12,6 +12,7 @@ projects.
 
 + 👨‍🔬 **I’m currently working on:**
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
+  - Flourishtry (A fictitious florist website)
 + 📚 **I’m currently learning and practicing:**
   - AJAX
   - Book - JavaScript & JQuery: Interactive Front-End Web Development [Jon Duckett]
