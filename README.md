@@ -22,20 +22,34 @@ projects.
 + :bulb: **Technology List (For my personal reference. It allows me to visualize what to practice with):**
   - AJAX
   - AngularJS
+  - AppML
+  - ASP
   - Bootstrap
+  - C++
+  - C#
   - CSS
   - Embedded JavaScript (EJS)
   - Express.js
   - Git
   - GitHub
   - HTML
+  - Java
   - JavaScript
   - jQuery
   - JSON
+  - Kotlin
   - MongoDB
+  - MySQL
   - Node.js
+  - npm
+  - PHP
+  - Python
+  - R
+  - Raspberry Pi
   - React.js
   - Sass
+  - SQL
   - SVG
   - Vue.js
   - XML
+  - yarn
