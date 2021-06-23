@@ -20,8 +20,6 @@ console.log("I love Web Design and Web Development!");
 
 ### Technologies I Am Planning to Learn (Or Get More Experience With) in the Future!:
 
-<br>
-
 <img align="left" alt="Express.js" width="26px" style="margin-right: 5px" src="images/expressjs.png">
 <img align="left" alt="jQuery" width="26px" style="margin-right: 5px" src="images/jquery.png">
 <img align="left" alt="Node.js" width="26px" style="margin-right: 5px" src="images/nodejs.png">
