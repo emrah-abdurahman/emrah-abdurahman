@@ -18,7 +18,7 @@ console.log("I love Web Design and Web Development!");
 <br>
 <br>
 
-### Technologies I Am Planning to Learn (Or Get More Experience With) in the Future!:
+### Technologies I Look Forward to Learning (Or Getting More Experience With) in the Future!:
 
 <img align="left" alt="Angular.js" width="36px" src="images/angularjs.png">
 <img align="left" alt="Express.js" width="36px" style="margin-left: 5px" src="images/expressjs.png">
