@@ -22,7 +22,7 @@ projects.
   - JavaScript
   - jQuery
 
-### Technologies I Am Fluent In:
+### Technologies I'm Well-Versed In:
 
 <img align="left" alt="HTML5" width="36px" src="images/html.png">
 <img align="left" alt="CSS3" width="36px" style="margin-left: 5px" src="images/css.png">
