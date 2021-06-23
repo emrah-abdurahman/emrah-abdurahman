@@ -20,13 +20,17 @@ console.log("I love Web Design and Web Development!");
 
 ### Technologies I Am Planning to Learn (Or Get More Experience With) in the Future!:
 
-<img align="left" alt="Express.js" width="36px" src="images/expressjs.png">
+<img align="left" alt="Angular.js" width="36px" src="images/angularjs.png">
+<img align="left" alt="Express.js" width="36px" style="margin-left: 5px" src="images/expressjs.png">
+<img align="left" alt="Figma" width="36px" style="margin-left: 5px" src="images/figma.png">
 <img align="left" alt="jQuery" width="36px" style="margin-left: 5px" src="images/jquery.png">
 <img align="left" alt="MongoDB" width="36px" style="margin-left: 5px" src="images/mongodb.png">
 <img align="left" alt="Node.js" width="36px" style="margin-left: 5px" src="images/nodejs.png">
 <img align="left" alt="PHP" width="36px" style="margin-left: 5px" src="images/php.png">
+<img align="left" alt="Photoshop" width="36px" style="margin-left: 5px" src="images/photoshop.png">
 <img align="left" alt="Python" width="36px" style="margin-left: 5px" src="images/python.png">
 <img align="left" alt="React.js" width="36px" style="margin-left: 5px" src="images/reactjs.png">
+<img align="left" alt="XD" width="36px" style="margin-left: 5px" src="images/xd.png">
 
 <br>
 <br>
