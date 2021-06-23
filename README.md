@@ -25,6 +25,7 @@ console.log("I love Web Design and Web Development!");
 <img align="left" alt="Figma" width="36px" style="margin-left: 5px" src="images/figma.png">
 <img align="left" alt="jQuery" width="36px" style="margin-left: 5px" src="images/jquery.png">
 <img align="left" alt="MongoDB" width="36px" style="margin-left: 5px" src="images/mongodb.png">
+<img align="left" alt="MySQL" width="36px" style="margin-left: 5px" src="images/mysql.png">
 <img align="left" alt="Node.js" width="36px" style="margin-left: 5px" src="images/nodejs.png">
 <img align="left" alt="PHP" width="36px" style="margin-left: 5px" src="images/php.png">
 <img align="left" alt="Photoshop" width="36px" style="margin-left: 5px" src="images/photoshop.png">
