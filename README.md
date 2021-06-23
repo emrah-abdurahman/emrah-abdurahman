@@ -30,6 +30,8 @@ console.log("I love Web Design and Web Development!");
 <img align="left" alt="Photoshop" width="36px" style="margin-left: 5px" src="images/photoshop.png">
 <img align="left" alt="Python" width="36px" style="margin-left: 5px" src="images/python.png">
 <img align="left" alt="React.js" width="36px" style="margin-left: 5px" src="images/reactjs.png">
+<img align="left" alt="Sass" width="36px" style="margin-left: 5px" src="images/sass.png">
+<img align="left" alt="Vue.js" width="36px" style="margin-left: 5px" src="images/vuejs.png">
 <img align="left" alt="XD" width="36px" style="margin-left: 5px" src="images/xd.png">
 
 <br>
