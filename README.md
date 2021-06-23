@@ -26,6 +26,7 @@ console.log("I love Web Design and Web Development!");
 <img align="left" alt="Node.js" width="36px" style="margin-left: 5px" src="images/nodejs.png">
 <img align="left" alt="PHP" width="36px" style="margin-left: 5px" src="images/php.png">
 <img align="left" alt="Python" width="36px" style="margin-left: 5px" src="images/python.png">
+<img align="left" alt="React.js" width="36px" style="margin-left: 5px" src="images/reactjs.png">
 
 <br>
 <br>
