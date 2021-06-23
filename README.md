@@ -8,21 +8,21 @@ console.log("I love Web Design and Web Development!");
 
 ### Technologies I Am Fluent In:
 
-<img align="left" alt="HTML5" width="26px" src="images/html.png">
-<img align="left" alt="CSS3" width="26px" style="margin-left: 5px" src="images/css.png">
-<img align="left" alt="JavaScript" width="26px" style="margin-left: 5px" src="images/javascript.png">
-<img align="left" alt="Microsoft Visual Studio Code" width="26px" style="margin-left: 5px" src="images/visual-studio-code.png">
-<img align="left" alt="Git" width="26px" style="margin-left: 5px" src="images/git.png">
-<img align="left" alt="GitHub" width="26px" style="margin-left: 5px" src="images/github.png">
+<img align="left" alt="HTML5" width="36px" src="images/html.png">
+<img align="left" alt="CSS3" width="36px" style="margin-left: 5px" src="images/css.png">
+<img align="left" alt="JavaScript" width="36px" style="margin-left: 5px" src="images/javascript.png">
+<img align="left" alt="Microsoft Visual Studio Code" width="36px" style="margin-left: 5px" src="images/visual-studio-code.png">
+<img align="left" alt="Git" width="36px" style="margin-left: 5px" src="images/git.png">
+<img align="left" alt="GitHub" width="36px" style="margin-left: 5px" src="images/github.png">
 
 <br>
 <br>
 
 ### Technologies I Am Planning to Learn (Or Get More Experience With) in the Future!:
 
-<img align="left" alt="Express.js" width="26px" style="margin-right: 5px" src="images/expressjs.png">
-<img align="left" alt="jQuery" width="26px" style="margin-right: 5px" src="images/jquery.png">
-<img align="left" alt="Node.js" width="26px" style="margin-right: 5px" src="images/nodejs.png">
+<img align="left" alt="Express.js" width="36px" style="margin-right: 5px" src="images/expressjs.png">
+<img align="left" alt="jQuery" width="36px" style="margin-right: 5px" src="images/jquery.png">
+<img align="left" alt="Node.js" width="36px" style="margin-right: 5px" src="images/nodejs.png">
 
 <br>
 <br>
