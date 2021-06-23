@@ -11,6 +11,9 @@ console.log("I love Web Design and Web Development!");
 <img align="left" alt="HTML5" width="26px" src="images/html.png">
 <img align="left" alt="CSS3" width="26px" src="images/css.png">
 <img align="left" alt="JavaScript" width="26px" src="images/javascript.png">
+<img align="left" alt="Microsoft Visual Studio Code" width="26px" src="images/visual-studio-code.png">
+<img align="left" alt="Git" width="26px" src="images/git.png">
+<img align="left" alt="GitHub" width="26px" src="images/github.png">
 
 <br>
 <br>
