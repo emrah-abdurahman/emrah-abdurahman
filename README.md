@@ -24,8 +24,6 @@ projects.
 
 ### Technologies I Am Fluent In:
 
-<br>
-
 <img align="left" alt="HTML5" width="36px" src="images/html.png">
 <img align="left" alt="CSS3" width="36px" style="margin-left: 5px" src="images/css.png">
 <img align="left" alt="JavaScript" width="36px" style="margin-left: 5px" src="images/javascript.png">
@@ -33,11 +31,9 @@ projects.
 <img align="left" alt="Git" width="36px" style="margin-left: 5px" src="images/git.png">
 <img align="left" alt="GitHub" width="36px" style="margin-left: 5px" src="images/github.png">
 
-<br><br><br>
+<br><br>
 
 ### Technologies I Look Forward to Learning (Or Getting More Experience With) in the Future!:
-
-<br>
 
 <img align="left" alt="Angular.js" width="36px" src="images/angularjs.png">
 <img align="left" alt="Express.js" width="36px" style="margin-left: 5px" src="images/expressjs.png">
