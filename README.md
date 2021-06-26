@@ -18,6 +18,7 @@ projects.
 - 📚 **Currently learning and practicing:**
   - AJAX
   - Book - JavaScript & JQuery: Interactive Front-End Web Development [Jon Duckett]
+  - Course - HTML Essential Training - I am completing this short course on LinkedIn Learning
   - Course - JavaScript Algorithms and Data Structures - I am completing this course on freeCodeCamp
   - JavaScript
   - jQuery
