@@ -8,9 +8,11 @@ console.log("I love Web Design and Web Development!");
 
 Hey, I'm Emrah! I've recently discovered a passion for web technologies.
 
-I am on a neverending quest to gain more knowledge, skills, and experience to level up in this field.
+Web design and web development allow me to blend an infinite amount of creativity with logical problem solving. I am on a neverending quest to gain more knowledge, skills, and experience to level up in this field.
 
-Web design and web development allow me to blend an infinite amount of creativity with logical problem solving. I am using GitHub to document my journey learning web design, development, and possibly other miscellaneous subjects. I am highly open-minded and would love to work with others on collaboration projects.
+I am using GitHub to document my journey learning web design, development, and possibly other miscellaneous subjects.
+
+I am highly open-minded and would love to work with others on collaboration projects.
 
 - 👨‍🔬 **Currently working on:**
   - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
