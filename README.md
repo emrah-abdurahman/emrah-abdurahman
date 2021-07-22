@@ -26,6 +26,7 @@ I am highly open-minded and would love to work with others on collaboration proj
     - LinkedIn Learning - Getting Your First Job as a Web Developer
   - **Technologies:**
     - AJAX
+    - CSS
     - JavaScript
     - jQuery
 
