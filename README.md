@@ -20,7 +20,7 @@ I am highly open-minded and would love to work with others on collaboration proj
 - 📚 **Currently learning and practicing:**
   - **Books:**
     - HTML & CSS: Design and Build Websites [Jon Duckett] - I am rereading this one as a refresher
-    - JavaScript & JQuery: Interactive Front-End Web Development [Jon Duckett]
+    - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan]
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
     - LinkedIn Learning - Getting Your First Job as a Web Developer
