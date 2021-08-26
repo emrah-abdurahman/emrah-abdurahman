@@ -23,7 +23,7 @@ I am highly open-minded and would love to work with others on collaboration proj
     - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan]
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
-    -
+    - No courses at the moment
   - **Technologies:**
     - AJAX
     - CSS
