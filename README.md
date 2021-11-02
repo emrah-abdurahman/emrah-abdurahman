@@ -1,4 +1,4 @@
-# ---Welcome to Emrah Abdurahman's GitHub Profile :books: :computer: :wink:---
+# --Welcome to Emrah Abdurahman's GitHub Profile :books: :computer: :wink:--
 
 ## A Short(ish) Introduction:
 
