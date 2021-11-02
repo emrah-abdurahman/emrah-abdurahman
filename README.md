@@ -25,7 +25,6 @@ I am highly open-minded and would love to work with others on collaboration proj
   - **Courses:**
     - No courses at the moment
   - **Technologies:**
-    - AJAX
     - CSS
     - JavaScript
 
