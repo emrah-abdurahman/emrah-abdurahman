@@ -19,14 +19,17 @@ I am highly open-minded and would love to work with others on collaboration proj
   - Flourishtry (A fictitious florist website)
 - 📚 **Currently learning and practicing:**
   - **Books:**
-    - HTML & CSS: Design and Build Websites [Jon Duckett] - I am rereading this one as a refresher
-    - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan]
+    - HTML & CSS: Design and Build Websites [Jon Duckett] - Rereading
+    - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan] - Rereading
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
-    - No courses at the moment
+    - LinkedIn Learning - React.js Essential Training
+    - Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
   - **Technologies:**
     - CSS
     - JavaScript
+    - React.js
+    - Sass
 
 ### Technologies I'm Well-Versed In:
 
