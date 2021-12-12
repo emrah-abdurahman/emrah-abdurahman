@@ -23,7 +23,6 @@ I am highly open-minded and would love to work with others on collaboration proj
     - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan] - Rereading
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
-    - LinkedIn Learning - React.js Essential Training
     - Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
   - **Technologies:**
     - CSS
