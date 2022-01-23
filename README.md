@@ -23,12 +23,10 @@ I am highly open-minded and would love to work with others on collaboration proj
     - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan] - Rereading
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
-    - Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+    - Udemy - Clean Code
   - **Technologies:**
-    - CSS
     - JavaScript
     - React.js
-    - Sass
 
 ### Technologies I'm Well-Versed In:
 
