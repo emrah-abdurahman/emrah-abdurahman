@@ -15,15 +15,15 @@ I am using GitHub to document my journey learning web design, development, and p
 I am highly open-minded and would love to work with others on collaboration projects.
 
 - 👨‍🔬 **Currently working on:**
-  - CoolCalc (A personal project on GitHub to independently put into practice some HTML, CSS, and JavaScript)
-  - Flourishtry (A fictitious florist website)
+  - Sudoku Master - a Sudoku game made with pure HTML, CSS, and JavaScript
 - 📚 **Currently learning and practicing:**
   - **Books:**
     - HTML & CSS: Design and Build Websites [Jon Duckett] - Rereading
     - JavaScript - The Definitive Guide: Master the World's Most-Used Programming Language [David Flanagan] - Rereading
+    - Learning React: Modern Patterns for Developing React Apps [Alex Banks & Eve Porcello]
     - The CSS Anthology: 101 Essential Tips, Tricks & Hacks [Rachel Andrew]
   - **Courses:**
-    - Udemy - Clean Code
+    - No courses at the moment
   - **Technologies:**
     - JavaScript
     - React.js
